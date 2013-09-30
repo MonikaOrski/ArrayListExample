@@ -2,6 +2,9 @@ package listtest;
 
 import java.util.ArrayList;
 
+/*
+ * This class shows how to use an ArrayList
+ */
 public class ListTester {
 	
 	private ArrayList<String> al;
